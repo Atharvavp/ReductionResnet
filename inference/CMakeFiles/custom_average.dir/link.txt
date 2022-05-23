@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcustom_average.a CMakeFiles/custom_average.dir/src/custom_average.cpp.o
+/usr/bin/ranlib libcustom_average.a
