@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/atharva/reduction",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/atharva/libtorch/include -isystem /home/atharva/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda/include -D_GLIBCXX_USE_CXX11_ABI=1 -std=gnu++14 -o CMakeFiles/custom_average.dir/inference/src/custom_average.cpp.o -c /home/atharva/reduction/inference/src/custom_average.cpp",
+  "file": "/home/atharva/reduction/inference/src/custom_average.cpp"
+}
+]
