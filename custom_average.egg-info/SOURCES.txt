@@ -1,4 +1,3 @@
-custom_average.cpp
 setup.py
 custom_average.egg-info/PKG-INFO
 custom_average.egg-info/SOURCES.txt
